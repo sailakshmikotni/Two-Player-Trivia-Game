@@ -81,21 +81,21 @@ margin: 0px;
 }
 
 body {
-  font-size: 19px; 
+  font-size: 21px; 
 }
 
 h1 {
-  font-size: 35px;
+  font-size: 37px;
 }
 h2 {
-  font-size: 27px;
+  font-size: 29px;
 }
 h3 {
-  font-size: 20px;
+  font-size: 22px;
 }
 h4 {
-  font-size: 18px;
+  font-size: 20px;
 }
-p,button,option,input,select {
-  font-size: 17px;
+p,button,option,input,select,span,label{
+  font-size: 19px;
 }
