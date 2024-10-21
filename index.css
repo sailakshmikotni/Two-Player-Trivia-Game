@@ -102,3 +102,6 @@ p,button,option,select,span,label{
 input{
     font-size: 19px;
 }
+.answer-btn{
+   font-size: 18px;
+}
