@@ -1,23 +1,4 @@
 body {
-  font-size: 16px; 
-}
-
-h1 {
-  font-size: 2rem; 
-}
-
-h2, h3 {
-  font-size: 1.75rem; 
-}
-
-label, span,input,#submit, #play, #playagain, #end,.answer-btn  {
-  font-size: 1rem; 
-}
-#winner,#gameover,#playagain{
-   font-size: 1.25rem; 
-}
-
-body {
   background-image: url('https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSIYhY_9XEDYOMNRBsMoGuuOgceXob50kaxV_PHjMO1MHaEqgclpNKnugmoF0vympTk-yZfvqv2a_1peaPCVjHIx7t15LQ_TX_kwE0i6jjWnN_6cGXNLlHEeuqdzQ/360fx360f');
 
   background-size: cover; 
