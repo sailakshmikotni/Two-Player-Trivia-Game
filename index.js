@@ -199,16 +199,16 @@ function endgame(){
     question_catg.style.display = "none";
     document.getElementById("gameover").style.display="block"
 if(player1Score>player2Score){
-    document.getElementById("winner").innerHTML=`<p>${p1.value} wins!</p>   `
+    document.getElementById("winner").innerHTML=`<h5>${p1.value} wins!</h5>   `
     document.getElementById("winner").classList.remove("win")
     
 }
 else if(player1Score<player2Score){
-    document.getElementById("winner").innerHTML=`<p>${p2.value} wins!</p>   `
+    document.getElementById("winner").innerHTML=`<h5>${p2.value} wins!</h5>   `
     document.getElementById("winner").classList.remove("win")
 }
 else{
-    document.getElementById("winner").innerHTML=`<p>It's a Draw</p>   `
+    document.getElementById("winner").innerHTML=`<h5>It's a Draw</h5>   `
     document.getElementById("winner").classList.remove("win")
 }
 document.getElementById("playagain").style.display="block";
