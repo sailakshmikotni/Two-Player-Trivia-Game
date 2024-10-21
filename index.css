@@ -34,7 +34,7 @@ h1{
   background-color:  #0c4ae6;
   padding: 5px 18px;
   border-radius: 50px;
- 
+ color: rgb(254, 254, 254);
   cursor: pointer;
 }
 #submit:hover,#play:hover,#playagain:hover,#playagain:hover,#end:hover{
@@ -94,8 +94,11 @@ h3 {
   font-size: 22px;
 }
 h4 {
+  font-size: 23px;
+}
+p,button,option,select,span,label{
   font-size: 20px;
 }
-p,button,option,input,select,span,label{
-  font-size: 19px;
+input{
+    font-size: 19px;
 }
