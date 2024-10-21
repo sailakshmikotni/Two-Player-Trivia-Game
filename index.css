@@ -79,3 +79,15 @@ display: none;
 color: red;
 margin: 0px;
 }
+
+body {
+  font-size: 16px; /* Default font size */
+}
+
+h1, h2, h3 {
+  font-size: 24px; /* Adjust heading sizes */
+}
+
+p {
+  font-size: 14px; /* Adjust paragraph text */
+}
