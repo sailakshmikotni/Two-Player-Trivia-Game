@@ -77,32 +77,29 @@ margin: 0px;
 #gameover{
 display: none;
 color: red;
-margin: 0px;
+
 }
 
 .winner_name{
   margin: 0px;
 }
-html {
-  font-size: 16px; 
+.winner_name{
+  margin: 0px;
 }
-
 body {
-  font-size: 1rem; 
+  font-size: 1.2vw; 
 }
 
 h1 {
-  font-size: 2rem; 
+  font-size: 3vw; 
 }
 
-#main_section {
-  font-size: 1rem; 
+#main_section,  #winner{
+  font-size: 1.5vw; 
 }
-
-.answer-btn {
-  font-size: 0.8rem;
+h5,h2 {
+  font-size: 2vw; 
 }
-
-#winner, #gameover {
-  font-size: 1.5rem; 
+.answer-btn{
+  font-size: 1.3vw;  
 }
