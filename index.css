@@ -103,10 +103,8 @@ h5,h2 {
 .answer-btn{
   font-size: 1.3vw;  
 }
-#submit,#play,#playagain,#end{
-  font-size: 1.3vw;  
+#submit,#play,#playagain,#end,input[type="text"],#options{
+  font-size: 1.2vw;  
 }
-.answer-btn,input[type="text"] {
-  font-size: 1.2vw; 
-  
-}
+
+
