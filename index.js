@@ -211,7 +211,7 @@ else{
     document.getElementById("winner").innerHTML=`<h5 class="winner_name">It's a Draw</h5>   `
     document.getElementById("winner").classList.remove("win")
 }
-document.getElementById("playagain").style.display="block";
+document.getElementById("playagain").style.display="inline";
 }
 document.getElementById("playagain").addEventListener("click", function(){
     location.reload(); 
