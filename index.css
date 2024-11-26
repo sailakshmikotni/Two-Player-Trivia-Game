@@ -11,13 +11,9 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  font-family: "Patrick Hand", cursive;
-  font-weight: 400;
-  font-style: normal;
 
 
 }
-
 h1{
   color: rgb(223, 30, 30);
 }
@@ -41,11 +37,9 @@ h1{
   border-radius: 50px;
  color: rgb(254, 254, 254);
   cursor: pointer;
-  font-family: "Patrick Hand", cursive;
 }
 #submit:hover,#play:hover,#playagain:hover,#playagain:hover,#end:hover{
-background-color:rgb(13, 13, 234);
-
+background-color:rgb(13, 13, 234)
 
 }
 
@@ -55,7 +49,7 @@ display: none;
 }
 
 
-.endbutton,.win,.computer{
+.endbutton,.win{
 display: none;
 
 }
@@ -64,7 +58,6 @@ display: none;
 padding: 7px;
 border-radius: 15px;
 cursor: pointer;
-font-family: "Patrick Hand", cursive;
 }
 .answer-btn:hover{
 background-color: #7f7f83;
@@ -74,12 +67,8 @@ display: none;
 
 }
 
-.turns{
-  margin:0px;
-}
-#p1score,#p2score{
-  margin-top: 0px;
-}
+
+
 #winner{
 color: rgb(39, 175, 29);
 margin: 0px;
@@ -91,10 +80,7 @@ display: none;
 color: red;
 margin: 0px;
 }
-.computer_answer{
-  color:#0c4ae6;
-  margin: 0px;
-}
+
 
 
 .winner_name{
